@@ -14,7 +14,7 @@ Repository ini berisi *source code* dan dokumentasi untuk solusi **Juara 1** di 
 
 ---
 
-## 📌 Challenge Overview
+## Challenge Overview
 Tujuan utama dari tugas ini adalah membangun model *end-to-end* yang mampu mengintegrasikan data ulasan mentah pelanggan (sekitar 5,5 juta baris) dengan berbagai metadata pendukung untuk memprediksi kepuasan pelanggan berupa rating ordinal (1-5 bintang). 
 
 Tantangan utama kompetisi ini meliputi:
@@ -25,7 +25,7 @@ Tantangan utama kompetisi ini meliputi:
 
 ---
 
-## 🧠 Architecture & Methodology
+## Architecture & Methodology
 Solusi kami menggunakan pendekatan **Hybrid Intelligence**, menggabungkan stabilitas fitur tabular tradisional dengan pemahaman semantik dari model *Deep Learning*. Pipeline ini terdiri dari 4 pilar utama:
 
 ### 1. Strict OOF Target Encoding
@@ -48,16 +48,10 @@ Mencegah *target leakage* yang sering terjadi dengan menerapkan teknik *leave-on
 
 ---
 
-## 🚀 Performance
+## Performance
 * **Local CV (5-Fold OOF QWK)**: `0.91262`
-* **Leaderboard Rank**: 1st Place 🥇
+* **Leaderboard Rank**: 1st Place 
 
 ---
 
-## ⚙️ How to Reproduce
-1. *Clone repository* ini ke *environment* lokal/Kaggle Anda.
-2. Pastikan seluruh dataset `yelp_academic_dataset_*.json` dan file `.csv` kompetisi berada di dalam direktori `input/`.
-3. Install dependencies yang dibutuhkan:
-   ```bash
-   pip install transformers datasets lightgbm vaderSentiment scipy textblob
-   
+
