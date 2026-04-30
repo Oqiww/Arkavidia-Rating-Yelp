@@ -7,7 +7,7 @@
 
 Repository ini berisi *source code* dan dokumentasi untuk solusi **Juara 1** di kompetisi data science **Datavidia Arkavidia 10.0** (Yelp Review Rating Prediction). 
 
-**Tim Need Nama Tim:**
+**Tim NeedNamaTim:**
 * Zaky Muhammad Fauzi
 * Syauqi Gathan Setyapratama
 * Ghifary Wibisono
