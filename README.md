@@ -1,4 +1,4 @@
-# 🥇 Yelp Review Rating Prediction - Datavidia 10.0 (1st Place Solution)
+# Yelp Review Rating Prediction - Datavidia 10.0 (1st Place Solution)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c)
